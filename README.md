@@ -1,15 +1,12 @@
 # Hey, I'm Patrick 👋
+> Builder from Conakry, Guinea 🇬🇳 · Cybersecurity learner · Linux enthusiast
 
-> Cybersecurity student · Linux enthusiast · Builder from Conakry, Guinea 🇬🇳
-
-I'm an 18 y/o developer and security learner based in West Africa, working toward an ISC2 Certified in Cybersecurity (CC) credential while building real projects across web dev, Linux tooling, and system programming.
+I'm an 18 y/o developer based in West Africa, working toward an **ISC2 Certified in Cybersecurity (CC)** credential while building real projects across web dev, Linux tooling, and system programming.
 
 ---
 
 ## 🔐 Currently
-
 - 📚 Pursuing **ISC2 Certified in Cybersecurity (CC)** — Domain 1 completed ✅
-- 🛠️ Building **performance-mode** — a Linux system management TUI/GUI tool (Bash)
 - 🌐 Maintaining the **Interact Club Conakry** website ([repo](https://github.com/Patrickk2/Interact-Conakry))
 - 🎯 Goal: Cybersecurity Engineer focused on the African tech ecosystem
 
@@ -40,18 +37,15 @@ I'm an 18 y/o developer and security learner based in West Africa, working towar
 
 | Project | Description | Stack |
 |---|---|---|
-| [performance-mode](https://github.com/Patrickk2) | Linux system management TUI — network modes, cleanup, monitoring | Bash |
 | [Interact-Conakry](https://github.com/Patrickk2/Interact-Conakry) | Official website for Interact Club Conakry | HTML/CSS/JS |
 | [CrazyCook](https://github.com/Patrickk2/CrazyCook) | Recipe site with modern navigation and dynamic sections | HTML/CSS |
 | [CHAD](https://github.com/Patrickk2/CHAD) | Python chatbot — my first NLP experiment | Python |
-| STONE-OS | x86 bootloader written in NASM assembly | NASM |
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Patrickk2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patrickk2&show_icons=true&theme=radical&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickk2&layout=compact&theme=radical&hide_border=true)
 
 ---
@@ -59,7 +53,7 @@ I'm an 18 y/o developer and security learner based in West Africa, working towar
 ## 🌍 About Me
 
 - 📍 Conakry, Guinea
-- 🗣️ French (native) · English (B1)
+- 🗣️ French (native) · English (C1)
 - 💼 Former Project Supervisor @ CRS (Catholic Relief Services) — managed a team configuring digital tablets
 - ⛪ Theology, philosophy, and creative writing on the side
 - 🎵 Afrobeats / Afro R&B when I code
@@ -68,7 +62,7 @@ I'm an 18 y/o developer and security learner based in West Africa, working towar
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-lawson-8b9936384/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:novacreationsbypat@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Patrickk2-181717?style=flat&logo=github)](https://github.com/Patrickk2)
 
