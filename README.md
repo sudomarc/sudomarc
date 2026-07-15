@@ -1,14 +1,13 @@
-# Hey, I'm Patrick 👋
-> Builder from Conakry, Guinea 🇬🇳 · Cybersecurity learner · Linux enthusiast
+# Hey, I'm sudomarc 👋
+> Builder · Cybersecurity learner · Linux enthusiast
 
-I'm an 18 y/o developer based in West Africa, working toward an **ISC2 Certified in Cybersecurity (CC)** credential while building real projects across web dev, Linux tooling, and system programming.
+Developer working toward an **ISC2 Certified in Cybersecurity (CC)** credential while building real projects across web dev, Linux tooling, and system programming.
 
 ---
 
 ## 🔐 Currently
 - 📚 Pursuing **ISC2 Certified in Cybersecurity (CC)** — Domain 1 completed ✅
-- 🌐 Maintaining the **Interact Club Conakry** website ([repo](https://github.com/Patrickk2/Interact-Conakry))
-- 🎯 Goal: Cybersecurity Engineer focused on the African tech ecosystem
+- 🎯 Goal: Cybersecurity Engineer
 
 ---
 
@@ -37,34 +36,29 @@ I'm an 18 y/o developer based in West Africa, working toward an **ISC2 Certified
 
 | Project | Description | Stack |
 |---|---|---|
-| [Interact-Conakry](https://github.com/Patrickk2/Interact-Conakry) | Official website for Interact Club Conakry | HTML/CSS/JS |
-| [CrazyCook](https://github.com/Patrickk2/CrazyCook) | Recipe site with modern navigation and dynamic sections | HTML/CSS |
-| [CHAD](https://github.com/Patrickk2/CHAD) | Python chatbot — my first NLP experiment | Python |
+| [Interact-Conakry](https://github.com/sudomarc/Interact-Conakry) | Community website project | HTML/CSS/JS |
+| [CrazyCook](https://github.com/sudomarc/CrazyCook) | Recipe site with modern navigation and dynamic sections | HTML/CSS |
+| [CHAD](https://github.com/sudomarc/CHAD) | Python chatbot — first NLP experiment | Python |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Patrickk2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Patrickk2&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickk2&layout=compact&theme=radical&hide_border=true)
+![sudomarc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudomarc&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudomarc&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🌍 About Me
 
-- 📍 Conakry, Guinea
 - 🗣️ French (native) · English (C1)
-- 💼 Former Project Supervisor @ CRS (Catholic Relief Services) — managed a team configuring digital tablets
-- ⛪ Theology, philosophy, and creative writing on the side
-- 🎵 Afrobeats / Afro R&B when I code
+- 🎵 Music while coding
 
 ---
 
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-lawson-8b9936384/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:novacreationsbypat@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Patrickk2-181717?style=flat&logo=github)](https://github.com/Patrickk2)
+[![GitHub](https://img.shields.io/badge/GitHub-sudomarc-181717?style=flat&logo=github)](https://github.com/sudomarc)
 
 ---
 
