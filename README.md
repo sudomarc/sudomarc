@@ -7,6 +7,7 @@
 <p><a href="https://myportfolio-weld-three-35.vercel.app/">Personal portfolio and project case studies</a></p>
 
 <p>
+  <a href="#live-websites">Public websites and demos</a> ·
   <a href="#featured-projects">Featured projects</a> ·
   <a href="#technical-focus">Technical focus</a> ·
   <a href="#project-principles">Project principles</a>
@@ -15,6 +16,19 @@
 </div>
 
 ---
+
+## Public websites and demos
+
+| Project | Public site | Source |
+|---|---|---|
+| **Sudomarc portfolio** | [Open site](https://myportfolio-weld-three-35.vercel.app/) | [myportfolio](https://github.com/sudomarc/myportfolio) |
+| **Interact Club Conakry** | [Open site](https://interact-conakry.vercel.app/) | [Interact-Conakry](https://github.com/sudomarc/Interact-Conakry) |
+| **CrazyCook** — restaurant template demo | [Open demo](https://sudomarc.github.io/CrazyCook/) | [CrazyCook](https://github.com/sudomarc/CrazyCook) |
+| **Carbone Notes** — editorial blog | [Read the blog](https://sudomarc.github.io/carbone-blog/) | [carbone-blog](https://github.com/sudomarc/carbone-blog) |
+| **BamanaShop** — storefront demo; purchases are not enabled | [Open demo](https://sudomarc.github.io/BamanaShop/) | [BamanaShop](https://github.com/sudomarc/BamanaShop) |
+| **Nova Web** — agency website codebase | — | [nova-web](https://github.com/sudomarc/nova-web) |
+
+The storefront and restaurant links above are demonstrations, not live purchase services. The project catalogue keeps each site's own identity while linking it to the corresponding repository.
 
 ## Featured projects
 
