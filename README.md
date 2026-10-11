@@ -1,15 +1,14 @@
 <div align="center">
 
-# sudomarc
+<h1>sudomarc</h1>
 
-**Selected projects · Software experiments · Open-source work**
-
-Web experiences, Linux tooling, automation, and practical engineering.
+<p><strong>Software projects · Web interfaces · Linux tools · Automation</strong></p>
+<p>Selected repositories and practical engineering work.</p>
 
 <p>
-  <a href="#-featured-projects">Featured projects</a> ·
-  <a href="#-technical-focus">Technical focus</a> ·
-  <a href="#-project-principles">Project principles</a>
+  <a href="#featured-projects">Featured projects</a> ·
+  <a href="#technical-focus">Technical focus</a> ·
+  <a href="#project-principles">Project principles</a>
 </p>
 
 </div>
@@ -21,70 +20,40 @@ Web experiences, Linux tooling, automation, and practical engineering.
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### [Handshake](https://github.com/sudomarc/handshake)
-
-An Android-first prototype for trusted-contact verification and advisory checks for high-pressure messages.
-
-**Status:** Prototype. It does not detect cloned voices or receive remote audio from ordinary carrier calls or WhatsApp.
-
-**Focus:** Android · React Native · TypeScript · Security
-
+      <h3><a href="https://github.com/sudomarc/handshake">Handshake</a></h3>
+      <p>An Android-first prototype for trusted-contact verification and advisory checks for high-pressure messages.</p>
+      <p><strong>Status:</strong> Prototype. It does not detect cloned voices or receive remote audio from ordinary carrier calls or WhatsApp.</p>
+      <p><sub>Android · React Native · TypeScript · Security</sub></p>
     </td>
     <td width="50%" valign="top">
-
-### [NETWATCH](https://github.com/sudomarc/NETWATCH)
-
-A Linux-only Bash toolkit for network discovery and controlled IPv4/IPv6 gateway administration on authorized systems.
-
-Includes dry-run support, structured exports, and ownership-aware firewall handling.
-
-**Focus:** Linux · Bash · Networking · Defensive tooling
-
+      <h3><a href="https://github.com/sudomarc/NETWATCH">NETWATCH</a></h3>
+      <p>A Linux-only Bash toolkit for network discovery and controlled IPv4/IPv6 gateway administration on authorized systems.</p>
+      <p>Includes dry-run support, structured exports, and ownership-aware firewall handling.</p>
+      <p><sub>Linux · Bash · Networking · Defensive tooling</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### [Vibe Coding Instructions](https://github.com/sudomarc/vibe-coding-instructions)
-
-A repository-native engineering framework for structured planning, scoped implementation, security review, and evidence-based verification.
-
-Designed to make project workflows repeatable across tools and repositories.
-
-**Focus:** Engineering workflows · Repository governance · Testing
-
+      <h3><a href="https://github.com/sudomarc/vibe-coding-instructions">Vibe Coding Instructions</a></h3>
+      <p>A repository-native engineering framework for structured planning, scoped implementation, security review, and evidence-based verification.</p>
+      <p><sub>Engineering workflows · Repository governance · Testing</sub></p>
     </td>
     <td width="50%" valign="top">
-
-### [Thread Bot](https://github.com/sudomarc/thread-bot)
-
-A source-grounded news and social-content workflow with deduplication, fact-checking gates, quality evaluation, scheduled runs, and reports.
-
-**Focus:** Python · Automation · Content pipelines · GitHub Actions
-
+      <h3><a href="https://github.com/sudomarc/thread-bot">Thread Bot</a></h3>
+      <p>A source-grounded news and social-content workflow with deduplication, factuality gates, quality evaluation, scheduled runs, and reports.</p>
+      <p><sub>Python · Automation · Content pipelines · GitHub Actions</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### [OpenDroid website fork](https://github.com/sudomarc/opendroid)
-
-Website and landing-page work for the upstream OpenDroid project.
-
-This fork focuses on the website; it is not the source repository for the Android application.
-
-**Focus:** Web design · Front-end · Documentation
-
+      <h3><a href="https://github.com/sudomarc/opendroid">OpenDroid website fork</a></h3>
+      <p>Website and landing-page work for the upstream OpenDroid project. This fork focuses on the website, not the Android application source.</p>
+      <p><sub>Web design · Front-end · Documentation</sub></p>
     </td>
     <td width="50%" valign="top">
-
-### [Interact-Conakry](https://github.com/sudomarc/Interact-Conakry)
-
-A community website project focused on presenting local events, initiatives, and news.
-
-**Focus:** HTML · CSS · JavaScript
-
+      <h3><a href="https://github.com/sudomarc/Interact-Conakry">Interact-Conakry</a></h3>
+      <p>A community website project for presenting events, initiatives, and local news.</p>
+      <p><sub>HTML · CSS · JavaScript</sub></p>
     </td>
   </tr>
 </table>
@@ -104,8 +73,8 @@ A community website project focused on presenting local events, initiatives, and
 - **Evidence over claims.** Distinguish implemented features from prototypes, plans, and unverified behavior.
 - **Security by design.** Treat input and external output as untrusted; keep permissions and secrets scoped.
 - **Small, reviewable changes.** Prefer clear interfaces, focused changes, and repeatable checks.
-- **Useful documentation.** Record setup steps, limitations, and verification requirements where they belong—in each repository.
+- **Useful documentation.** Record setup steps, limitations, and verification requirements in each repository.
 
 ---
 
-<sub>This profile intentionally avoids personal contact details, biographical data, contribution-statistics widgets, and third-party badge services.</sub>
+<p align="center"><sub>No personal bio, contact details, contribution-statistics widgets, or third-party badge services.</sub></p>
