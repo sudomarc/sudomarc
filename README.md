@@ -4,6 +4,7 @@
 
 <p><strong>Software projects · Web interfaces · Linux tools · Automation</strong></p>
 <p>Selected repositories and practical engineering work.</p>
+<p><a href="https://myportfolio-weld-three-35.vercel.app/">Personal portfolio and project case studies</a></p>
 
 <p>
   <a href="#featured-projects">Featured projects</a> ·
