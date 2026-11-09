@@ -1,7 +1,8 @@
 <div align="center">
 
 <h1>sudomarc</h1>
-[![DevImpact Score(https://img.shields.io/badge/DevImpact_Score-31.0-orange?style=flat-square&logo=github)]
+[![committers.top badge](https://user-badge.committers.top/guinea_private/USERNAME.svg)](https://user-badge.committers.top/guinea_private/USERNAME)
+
 <p><strong>Software projects · Web interfaces · Linux tools · Automation</strong></p>
 <p>Selected repositories and practical engineering work.</p>
 <p><a href="https://myportfolio-weld-three-35.vercel.app/">Personal portfolio and project case studies</a></p>
