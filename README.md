@@ -2,24 +2,34 @@
 
 <h1>sudomarc</h1>
 
-[![Committers.top](https://user-badge.committers.top/guinea_private/sudomarc.svg)](https://user-badge.committers.top/guinea_private/sudomarc)
-[![DevImpact Score](https://img.shields.io/badge/DevImpact_Score-31.0-orange?style=flat-square&logo=github)](https://devimpact.osamamabkhot.dev/user/sudomarc)
-
-
-<p><strong>Software projects · Web interfaces · Linux tools · Automation</strong></p>
-<p>Selected repositories and practical engineering work.</p>
-<p><a href="https://myportfolio-weld-three-35.vercel.app/">Personal portfolio and project case studies</a></p>
+<p><strong>Software Engineer · AI &amp; Systems</strong></p>
+<p>I build software across AI, systems, developer tooling, automation, and web products.</p>
+<p>My work focuses on understanding how systems behave, connecting technologies into useful tools, and validating what actually works.</p>
+<p><a href="https://myportfolio-weld-three-35.vercel.app/">Portfolio and project case studies</a></p>
 
 <p>
-  <a href="#live-websites">Public websites and demos</a> ·
   <a href="#featured-projects">Featured projects</a> ·
-  <a href="#technical-focus">Technical focus</a> ·
-  <a href="#project-principles">Project principles</a>
+  <a href="#areas-of-work">Areas of work</a> ·
+  <a href="#engineering-principles">Engineering principles</a>
 </p>
 
 </div>
 
 ---
+
+## Featured projects
+
+| Project | What it explores |
+|---|---|
+| [**LapisLLM**](https://github.com/sudomarc/LapisLLM) | An experimental language-model engineering project: tokenizer, Transformer components, training workflows, evaluation, checkpointing, and inference. |
+| [**CHAD**](https://github.com/sudomarc/CHAD) | An AI application/runtime project in the LapisLLM ecosystem, with conversation handling, model integration, persistence, and a CLI. |
+| [**NETWATCH**](https://github.com/sudomarc/NETWATCH) | Linux network visibility and authorized administration tooling, including discovery, diagnostics, traffic management, and structured exports. |
+| [**Vibe Coding Instructions**](https://github.com/sudomarc/vibe-coding-instructions) | A repository-native engineering workflow for planning, implementation, security review, testing, and evidence-based verification. |
+| [**Thread Bot**](https://github.com/sudomarc/thread-bot) | An automated, source-grounded content workflow with deduplication, quality checks, scheduled runs, and reporting. |
+| [**Handshake**](https://github.com/sudomarc/handshake) | An Android-first prototype exploring trusted-contact workflows and advisory analysis of potentially coercive messages. |
+| [**myportfolio**](https://github.com/sudomarc/myportfolio) | A static portfolio documenting selected web work, project context, implementation decisions, and limitations. |
+
+These projects have different levels of maturity. Research experiments, prototypes, demonstrations, and implemented features are documented as such; they should not be read as claims of production readiness.
 
 ## Public websites and demos
 
@@ -32,68 +42,26 @@
 | **BamanaShop** — storefront demo; purchases are not enabled | [Open demo](https://sudomarc.github.io/BamanaShop/) | [BamanaShop](https://github.com/sudomarc/BamanaShop) |
 | **Nova Web** — agency website codebase | — | [nova-web](https://github.com/sudomarc/nova-web) |
 
-The storefront and restaurant links above are demonstrations, not live purchase services. The project catalogue keeps each site's own identity while linking it to the corresponding repository.
+The storefront and restaurant links are demonstrations, not live purchase services.
 
-## Featured projects
+## Areas of work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sudomarc/handshake">Handshake</a></h3>
-      <p>An Android-first prototype for trusted-contact verification and advisory checks for high-pressure messages.</p>
-      <p><strong>Status:</strong> Prototype. It does not detect cloned voices or receive remote audio from ordinary carrier calls or WhatsApp.</p>
-      <p><sub>Android · React Native · TypeScript · Security</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sudomarc/NETWATCH">NETWATCH</a></h3>
-      <p>A Linux-only Bash toolkit for network discovery and controlled IPv4/IPv6 gateway administration on authorized systems.</p>
-      <p>Includes dry-run support, structured exports, and ownership-aware firewall handling.</p>
-      <p><sub>Linux · Bash · Networking · Defensive tooling</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sudomarc/vibe-coding-instructions">Vibe Coding Instructions</a></h3>
-      <p>A repository-native engineering framework for structured planning, scoped implementation, security review, and evidence-based verification.</p>
-      <p><sub>Engineering workflows · Repository governance · Testing</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sudomarc/thread-bot">Thread Bot</a></h3>
-      <p>A source-grounded news and social-content workflow with deduplication, factuality gates, quality evaluation, scheduled runs, and reports.</p>
-      <p><sub>Python · Automation · Content pipelines · GitHub Actions</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sudomarc/opendroid">OpenDroid website fork</a></h3>
-      <p>Website and landing-page work for the upstream OpenDroid project. This fork focuses on the website, not the Android application source.</p>
-      <p><sub>Web design · Front-end · Documentation</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/sudomarc/Interact-Conakry">Interact-Conakry</a></h3>
-      <p>A community website project for presenting events, initiatives, and local news.</p>
-      <p><sub>HTML · CSS · JavaScript</sub></p>
-    </td>
-  </tr>
-</table>
-
-## Technical focus
-
-| Area | Tools used across projects |
+| Area | Practical focus |
 |---|---|
-| Web development | HTML, CSS, JavaScript, TypeScript, Next.js |
-| Mobile | Expo, React Native, native Android integration |
-| Linux and networking | Bash, Linux networking tools, firewall management |
-| Automation and quality | Python, GitHub Actions, tests, structured verification |
-| Collaboration | Git, GitHub, project documentation |
+| **AI and machine learning** | LLM application architecture, model internals, PyTorch experimentation, inference workflows |
+| **Systems and networking** | Linux tooling, network discovery, diagnostics, traffic and firewall administration on authorized systems |
+| **Software products** | Web interfaces, static websites, mobile prototypes, application architecture |
+| **Automation and developer tooling** | Python, GitHub Actions, CLI tools, repository workflows, testing |
+| **Engineering practice** | Technical documentation, scoped changes, security-conscious design, reproducible verification |
 
-## Project principles
+## Engineering principles
 
-- **Evidence over claims.** Distinguish implemented features from prototypes, plans, and unverified behavior.
-- **Security by design.** Treat input and external output as untrusted; keep permissions and secrets scoped.
-- **Small, reviewable changes.** Prefer clear interfaces, focused changes, and repeatable checks.
-- **Useful documentation.** Record setup steps, limitations, and verification requirements in each repository.
+- **Evidence over claims.** Separate implemented behavior from prototypes, experiments, plans, and unverified assumptions.
+- **Understand before building.** Clarify requirements, constraints, architecture, and failure modes before implementation.
+- **Security by design.** Treat inputs and external output as untrusted; keep permissions and secrets scoped.
+- **Verify the result.** Use relevant tests, runtime checks, and reviewable evidence instead of assuming that code works.
+- **Keep systems understandable.** Prefer explicit interfaces, focused changes, and documentation that records limitations.
 
 ---
 
-<p align="center"><sub>No personal bio, contact details, contribution-statistics widgets, or third-party badge services.</sub></p>
+<p align="center"><sub>Projects, experiments, and engineering notes: <a href="https://github.com/sudomarc">GitHub</a>.</sub></p>
