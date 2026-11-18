@@ -2,6 +2,10 @@
 
 <h1>sudomarc</h1>
 
+[![Committers.top](https://user-badge.committers.top/guinea_private/sudomarc.svg)](https://user-badge.committers.top/guinea_private/sudomarc)
+[![DevImpact Score](https://img.shields.io/badge/DevImpact_Score-31.0-orange?style=flat-square&logo=github)](https://devimpact.osamamabkhot.dev/user/sudomarc)
+[![sudomarc on GitRanks: profile](https://gitranks.com/badge/user/sudomarc/profile-card.svg)](https://gitranks.com/profile/sudomarc)
+
 <p><strong>Software Engineer · AI &amp; Systems</strong></p>
 <p>I build software across AI, systems, developer tooling, automation, and web products.</p>
 <p>My work focuses on understanding how systems behave, connecting technologies into useful tools, and validating what actually works.</p>
